@@ -1,0 +1,1 @@
+alert("Hey. This website is a learning website, and it's still under construction. Please excuse it for any technical difficulties.")
